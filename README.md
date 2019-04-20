@@ -35,3 +35,6 @@ I can't think of another topic for the table so I directly copy the one in the g
 Here's the reference: https://guides.github.com/features/mastering-markdown/
 
 If you have read until here, I am sorry that you have wasted your precious time. Bye!
+
+![image] (https://github.com/csci3250-2019/student-1155109570/blob/master/p1.png)
+![image] (https://github.com/csci3250-2019/student-1155109570/blob/master/p2.png)
